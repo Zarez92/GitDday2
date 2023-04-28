@@ -8,4 +8,6 @@ public class Homepage {
 
     // log in
      // logo
+
+    //footer
 }
