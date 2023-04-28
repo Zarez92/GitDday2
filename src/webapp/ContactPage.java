@@ -5,5 +5,6 @@ public class ContactPage {
     // face
     //insta
     //twit
+    //email
 
 }
